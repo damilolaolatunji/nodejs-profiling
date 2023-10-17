@@ -1,0 +1,13 @@
+{
+  "name": "nodejs-profiling",
+  "type": "module",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "@appsignal/nodejs": "^3.0.23",
+    "dotenv": "^16.3.1",
+    "fastify": "^4.23.2",
+    "workerpool": "^6.5.1"
+  }
+}
