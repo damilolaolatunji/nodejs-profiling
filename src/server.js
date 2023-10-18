@@ -1,5 +1,5 @@
-// import './appsignal.js';
 import 'dotenv/config';
+// import './appsignal.js';
 import './inspector.js';
 import Fastify from 'fastify';
 import workerpool from 'workerpool';
