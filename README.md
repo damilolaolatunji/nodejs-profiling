@@ -8,8 +8,8 @@ Node.js and strategies for fixing them.
 You must have Node.js and npm installed on your machine. This project was tested
 against the following versions:
 
-- Node v21.0.0
-- npm v9.8.0
+- Node v20.9.0
+- npm v10.1.0
 
 ## Getting started
 
